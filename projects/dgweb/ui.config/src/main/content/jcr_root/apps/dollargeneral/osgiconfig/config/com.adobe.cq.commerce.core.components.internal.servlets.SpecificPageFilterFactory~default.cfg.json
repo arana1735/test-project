@@ -1,0 +1,3 @@
+{
+  "sling.filter.pattern": "/content/dollargeneral/.*?/(category-page|product-page)"
+}
